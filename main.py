@@ -2,7 +2,6 @@
 
 import seaborn as sns
 import logging
-import torch
 from io import BytesIO
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
